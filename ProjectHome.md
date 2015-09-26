@@ -1,0 +1,3 @@
+Sketch-to-collage is a tool to aid you in the creation of image collages. You start the collage by drawing a rough sketch on a canvas (left), and then similar images from your collection are retrieved, matching color compositions and also individual objects. The composite is then created by combining several state-of-the-art tools for color and contour blending.
+
+<a href='http://www.youtube.com/watch?feature=player_embedded&v=WVAkMmKILOE' target='_blank'><img src='http://img.youtube.com/vi/WVAkMmKILOE/0.jpg' width='425' height=344 /></a>
